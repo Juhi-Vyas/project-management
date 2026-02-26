@@ -8,16 +8,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-
----
-
 ## 📝 Features <a name="-features"></a>
 
 - **Multiple Workspaces:** Allow multiple workspaces to be created, each with its own set of projects, tasks, and members.
